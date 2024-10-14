@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"perform_hit_reaction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"perform_hit_reaction",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"adapt_behavior","order":2,"path":"scripts/adapt_behavior/adapt_behavior.yy",},
+    {"name":"move_towards_player","order":3,"path":"scripts/move_towards_player/move_towards_player.yy",},
+    {"name":"perform_attack","order":4,"path":"scripts/perform_attack/perform_attack.yy",},
+    {"name":"perform_death_animation","order":6,"path":"scripts/perform_death_animation/perform_death_animation.yy",},
+    {"name":"perform_hit_reaction","order":5,"path":"scripts/perform_hit_reaction/perform_hit_reaction.yy",},
+    {"name":"register_state","order":1,"path":"scripts/register_state/register_state.yy",},
+  ],
+}
